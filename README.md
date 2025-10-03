@@ -1,7 +1,7 @@
 #NHOM_8
 https://github.com/dominh2367-source/NHOM_8.git
 1: https://github.com/dominh2367-source/NHOM_8/pull/3
-2: 
+2: https://github.com/dominh2367-source/NHOM_8/pull/4
 Thành viên:
 Đỗ Nhật Minh 25119117
 Võ Trọng Phúc 25119133
@@ -11,6 +11,7 @@ git add
 git push
 git commit -m
 Khó khan trong việc push lên cần xem youtube.
+
 
 
 
