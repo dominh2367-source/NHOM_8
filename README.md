@@ -1,7 +1,7 @@
 #NHOM_8
 https://github.com/dominh2367-source/NHOM_8.git
 
-Thanh viên:
+Thành viên:
 Đỗ Nhật Minh
 Võ Trọng Phúc
 Hồ Vĩnh Phúc
@@ -9,4 +9,5 @@ Hồ Vĩnh Phúc
 Nguyễn Lê Khánh Thịnh
 git push -u
 git commit -m
-khó khan trong việc push lên cần xem youtube
+Khó khan trong việc push lên cần xem youtube.
+
