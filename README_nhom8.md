@@ -12,7 +12,8 @@ Hồ Vĩnh Phúc 25119129
 git add
 git push
 git commit -m
-Khó khan trong việc push lên cần xem youtube.
+Khó khan trong việc push lên cần xem youtube học dược lệnh git init.
+
 
 
 
