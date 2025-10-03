@@ -1,14 +1,26 @@
 # NHOM\_8
 
-DU AN DAU TIEN CUA TOI
-
-Họ và tên: Đỗ Nhật Minh
-
-MSSV: 25119117
+https://github.com/dominh2367-source/NHOM\_8.git
 
 
 
-Đến từ trường sư phạm kĩ thuật TP.HCM
+Thanh viên:
+
+Đỗ Nhật Minh
+
+Võ Trọng Phúc
+
+Hồ Vĩnh Phúc
+
+Đặng Ngọc Phương Nam
+
+Nguyễn Lê Khánh Thịnh 
+
+git push -u
+
+git commit -m 
+
+khó khan trong việc push lên cần xem youtube và học được lệnh git init và giải quyết được 
 
 
 
