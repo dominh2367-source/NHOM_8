@@ -7,10 +7,12 @@ Thành viên:
 Võ Trọng Phúc 25119133
 Đặng Ngọc Phương Nam 25119121
 Nguyễn Lê Khánh Thịnh 25119157
+Hồ Vĩnh Phúc 25119129
 git add
 git push
 git commit -m
 Khó khan trong việc push lên cần xem youtube.
+
 
 
 
